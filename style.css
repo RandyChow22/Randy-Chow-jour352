@@ -12,6 +12,13 @@
     margin-left: 0px;
 }
 
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
     /* This is for my name */
 
 #name {
@@ -30,12 +37,14 @@
 
     /* This is for my title */
 
-strong {
+#title {
     color: #33485e;
+    font-weight: 600px;
+    text-align: center;
+    margin-top: 20px;
     font-size: 1.5em;
     text-transform: uppercase;
     font-family: Open Sans, arial;
-    font-weight: 400;
 }
 
     /* This is for my link to my email and GitHub */
@@ -44,18 +53,29 @@ strong {
     font-size: 1em;
     font-family: Open Sans, arial;
     font-weight: 400;
-    text-align: center;
     margin: 0 auto;
-    padding: 0 auto;
+    padding: 0;
+
+}
+
+#do {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 
 }
 
     /* This is for my bullet points */
 
-li {
+#degrees {
     font-size: 1em;
     font-weight: 400;
     font-family: Open Sans, arial;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 
 }
 
@@ -101,4 +121,14 @@ li {
     font-style: italic;
     font-family: Open Sans, arial;
 
+}
+.menu {
+    padding:0;
+    margin:0;
+    text-align:center;
+
+}
+
+.menu li {
+    display:inline;
 }
