@@ -1,22 +1,30 @@
 
     /* styles for my resume */
 
-p {
+.description {
     font-size: 1em;
     font-weight: 400;
     color: #444;
     font-family: Open Sans, arial;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
     /* This is for my name */
 
-h1 {
+#name {
     font-size: 3em;
     color: #33485e;
     text-align: center;
     text-transform: uppercase;
     font-family: Open Sans, arial;
     font-weight: 400;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin:0 auto;
 
 }
 
@@ -32,10 +40,14 @@ strong {
 
     /* This is for my link to my email and GitHub */
 
-ul {
+.menu {
     font-size: 1em;
     font-family: Open Sans, arial;
     font-weight: 400;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+
 }
 
     /* This is for my bullet points */
@@ -49,17 +61,24 @@ li {
 
     /* This is for my experience section */
 
-h2 {
+.sectionheader {
     background-color: #33485e;
     font-size: 1em;
     font-family: Open Sans, arial;
     font-weight: 400;
     color:white;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 70%;
+    min-width: 300px;
+
 }
 
     /* This is for my job title */
 
-h3 {
+.jobtitle {
     font-weight: 600;
     font-size: 1.5em;
     font-family: Open Sans, arial;
@@ -67,16 +86,16 @@ h3 {
 
     /* This is for the job organization */
 
-h4 {
+.organization {
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-family: Open Sans, arial;
 
 }
 
     /* This is for the dates of job experience */
 
-h5 {
+.date {
     font-weight: 400;
     font-size: 1em;
     font-style: italic;
