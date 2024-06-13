@@ -1,0 +1,38 @@
+
+.container {
+
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    
+
+}
+
+.btn {
+    font-family: "Special Elite", system-ui;
+
+}
+
+.col-md-4 {
+    font-size: 3em;
+    padding-bottom: 50px;
+}
+
+.row {
+    padding-bottom: 50px;
+    
+}
+
+.h2 {
+    padding-top: 50px;
+    font-family: "Special Elite", system-ui;
+}
+
+@media only screen and (max-width: 500px) {
+
+    padding-top: 50px;
+    background-color:
+
+
+	INSERT STYLES HERE FOR SCREENS BELOW 500px
+}
