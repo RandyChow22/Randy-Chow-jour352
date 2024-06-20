@@ -1,0 +1,100 @@
+
+/* Below are the CSS for the banner */
+
+.header {
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color:#6495ED;
+}
+
+.inner_header {
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    font-family: "Playfair Display", serif;
+    color: #FFD700;
+}
+
+/* Below is the CSS for the headline */
+
+.HLSB {
+    font-family: "Times New Roman", serif;
+    font-size: 44px;
+
+}
+
+/* Below is the CSS for my subheds */
+
+.Subhed {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Helvetica, Arial;
+
+}
+
+/* Below is the CSS for the byline */
+
+#byline {
+    font-size: 12px;
+}
+
+/* Below is the CSS for the publishing date */
+
+#date {
+    font-size: 12px;
+    padding-bottom: 1%;
+}
+
+/* Below is the CSS for the article */
+
+p {
+    font-size: 15px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Below is the CSS for the pictures */
+
+img {
+    max-width: 75%;
+
+}
+
+/* Below is the CSS for the story to be centered */
+
+#content {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+/* Below is the CSS for the related links */
+
+.links {
+    font-family: Helvetica, Arial, sans-serif;
+    padding-top: 5px;
+}
+
+/* Below is the CSS for the pull quote */
+
+blockquote {
+    font: 24px normal helvetica, sans-serif;
+    font-style: italic;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: red;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 4px solid #ccc;
+}
+
+/* Below is the CSS for the spotify link */
+
+.spotifylink {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
