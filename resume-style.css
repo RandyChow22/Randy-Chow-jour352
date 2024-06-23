@@ -40,18 +40,20 @@
    text-align: center;
    font-family: "Open Sans", sans-serif;
    font-weight: bold;
-
-
 }
+
+    /* This is for my education bullets */
 
 .degrees {
     margin-bottom: 1%;
 }
 
+    /* This is for my skill bullets */
 .skills {
     margin-bottom: 1%;
 }
 
+    /* This is for my page footer */
 #bottom {
     background-color: #B0CBE0;
     font-family: "Open Sans", sans-serif;
