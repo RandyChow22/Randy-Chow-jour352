@@ -5,8 +5,12 @@
     color:blue;
 }
 
+.jobtitle {
+    font-weight: bold;
+}
+
 .container {
-    font-family: Helvetica, sans-serif;
+    font-family: "Open Sans", sans-serif;
 
 }
 
