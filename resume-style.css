@@ -1,25 +1,46 @@
 
-
+    /* This is for the experience, education, skills subheads */
 .subhead {
-    text-align: center;
-    color:blue;
+    font-weight: bold;
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 5px;
+
+    color:#334CE0;
+    margin-bottom: 1%;
 }
 
+    /* This is for the job title */
 .jobtitle {
     font-weight: bold;
 }
 
-.container {
+    /* This is for the body */
+.bodybox {
     font-family: "Open Sans", sans-serif;
     margin-left: 15%;
     margin-right: 15%;
 
 }
 
+    /* This is for my name and position */
 .name {
 
    text-align: center;
    font-family: "Open Sans", sans-serif;
+   margin-bottom: 1%;
 
 }
 
+#degrees {
+    margin-bottom: 1%;
+}
+
+#skills {
+    margin-bottom: 1%;
+}
+
+#bottom {
+    background-color: #B0CBE0;
+    font-family: "Open Sans", sans-serif;
+}
