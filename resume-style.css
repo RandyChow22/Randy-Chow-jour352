@@ -13,6 +13,17 @@
     /* This is for the job title */
 .jobtitle {
     font-weight: bold;
+    margin-bottom: 1%;
+}
+
+    /* This is for the job's name' */
+.organization {
+    margin-bottom: 1%;
+}
+
+    /* This is for the date of experience */
+.date {
+    margin-bottom: 1%;
 }
 
     /* This is for the body */
@@ -25,9 +36,11 @@
 
     /* This is for my name and position */
 .name {
-   margin-top: 1%;
+   margin-top: 2%;
    text-align: center;
    font-family: "Open Sans", sans-serif;
+   font-weight: bold;
+
 
 }
 
