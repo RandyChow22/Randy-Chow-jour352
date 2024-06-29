@@ -29,7 +29,7 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color:#8715bf;
     color: white;
     text-align: center;
     margin-top: 3%;
@@ -53,5 +53,12 @@ p {
     color:grey;
     margin-left:5em;
     margin-right:5em;
+
+}
+
+.video1 {
+    width: 100%;
+    height: 100%;
+    
 
 }
