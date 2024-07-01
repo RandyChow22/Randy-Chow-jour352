@@ -30,7 +30,7 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:#8715bf;
+    background-color:#38003c;
     color: white;
     text-align: center;
     margin-top: 3%;
@@ -73,4 +73,41 @@ blockquote {
     margin-left: 50px;
     padding-left: 15px;
     border-left: 4px solid #ccc;
+}
+
+.hero-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+
+}
+
+.hero-hed {
+    margin:0 auto;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.hero-image {
+    width: 100%;
+
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    background: #000;
+    opacity: .7;
+}
+
+/* tophat*/
+
+.nav-logo {
+    color: white;
+    margin:0 auto;
+    font-weight: 700;
+    text-transform:uppercase;
 }
