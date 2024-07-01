@@ -111,3 +111,18 @@ blockquote {
     font-weight: 700;
     text-transform:uppercase;
 }
+
+@media (max-width:550px) {
+    p {
+        padding-left: 20px;
+        padding-right: 10px;
+    }
+
+    .chapterheadline {
+        font-size:1.25em;
+    }
+
+    .hero-hed {
+        font-size: 1.5em;
+    }
+}
